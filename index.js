@@ -33,3 +33,5 @@ app.get('/random', (_, res) => {
     result: r
   })
 })
+
+module.exports = app;
